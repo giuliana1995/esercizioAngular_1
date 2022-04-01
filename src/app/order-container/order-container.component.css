@@ -1,0 +1,17 @@
+div {
+    width: 620px;
+    height: 600px;
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
